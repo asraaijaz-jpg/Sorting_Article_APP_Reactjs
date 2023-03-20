@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Sorting_Article_APP_Reactjs/static/css/main.b81aef37.chunk.css",
+    "main.js": "/Sorting_Article_APP_Reactjs/static/js/main.5964365c.chunk.js",
+    "main.js.map": "/Sorting_Article_APP_Reactjs/static/js/main.5964365c.chunk.js.map",
+    "runtime-main.js": "/Sorting_Article_APP_Reactjs/static/js/runtime-main.6b1278e7.js",
+    "runtime-main.js.map": "/Sorting_Article_APP_Reactjs/static/js/runtime-main.6b1278e7.js.map",
+    "stencil-h8k-logo_2-entry-js.js": "/Sorting_Article_APP_Reactjs/static/js/stencil-h8k-logo_2-entry-js.90467e1e.chunk.js",
+    "stencil-h8k-logo_2-entry-js.js.map": "/Sorting_Article_APP_Reactjs/static/js/stencil-h8k-logo_2-entry-js.90467e1e.chunk.js.map",
+    "stencil-polyfills-css-shim.js": "/Sorting_Article_APP_Reactjs/static/js/stencil-polyfills-css-shim.5391b34c.chunk.js",
+    "stencil-polyfills-css-shim.js.map": "/Sorting_Article_APP_Reactjs/static/js/stencil-polyfills-css-shim.5391b34c.chunk.js.map",
+    "static/css/4.4932a258.chunk.css": "/Sorting_Article_APP_Reactjs/static/css/4.4932a258.chunk.css",
+    "static/js/4.ab6d9d13.chunk.js": "/Sorting_Article_APP_Reactjs/static/js/4.ab6d9d13.chunk.js",
+    "static/js/4.ab6d9d13.chunk.js.map": "/Sorting_Article_APP_Reactjs/static/js/4.ab6d9d13.chunk.js.map",
+    "static/js/5.7548f83d.chunk.js": "/Sorting_Article_APP_Reactjs/static/js/5.7548f83d.chunk.js",
+    "static/js/5.7548f83d.chunk.js.map": "/Sorting_Article_APP_Reactjs/static/js/5.7548f83d.chunk.js.map",
+    "static/js/6.c40c6eca.chunk.js": "/Sorting_Article_APP_Reactjs/static/js/6.c40c6eca.chunk.js",
+    "static/js/6.c40c6eca.chunk.js.map": "/Sorting_Article_APP_Reactjs/static/js/6.c40c6eca.chunk.js.map",
+    "index.html": "/Sorting_Article_APP_Reactjs/index.html",
+    "precache-manifest.00e6cb3f04d00d3f2c30d3e67b10ee2e.js": "/Sorting_Article_APP_Reactjs/precache-manifest.00e6cb3f04d00d3f2c30d3e67b10ee2e.js",
+    "service-worker.js": "/Sorting_Article_APP_Reactjs/service-worker.js",
+    "static/css/4.4932a258.chunk.css.map": "/Sorting_Article_APP_Reactjs/static/css/4.4932a258.chunk.css.map",
+    "static/css/main.b81aef37.chunk.css.map": "/Sorting_Article_APP_Reactjs/static/css/main.b81aef37.chunk.css.map",
+    "static/js/4.ab6d9d13.chunk.js.LICENSE.txt": "/Sorting_Article_APP_Reactjs/static/js/4.ab6d9d13.chunk.js.LICENSE.txt",
+    "static/js/5.7548f83d.chunk.js.LICENSE.txt": "/Sorting_Article_APP_Reactjs/static/js/5.7548f83d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b1278e7.js",
+    "static/css/4.4932a258.chunk.css",
+    "static/js/4.ab6d9d13.chunk.js",
+    "static/css/main.b81aef37.chunk.css",
+    "static/js/main.5964365c.chunk.js"
+  ]
+}
